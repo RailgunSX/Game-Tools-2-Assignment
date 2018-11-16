@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: fde5907397fb77c4ca1e1dfb5190086f
+timeCreated: 1485777648
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Vault_small
+    100004: Vault_small 1
+    100006: Vault_small 2
+    100008: Vault_small 3
+    100010: Vault_smallarch00
+    100012: Vault_smallarch01
+    100014: Vault_smallarch02
+    100016: Vault_smallcolumn00
+    100018: Vault_smallcolumn01
+    100020: Vault_smallcolumn02
+    100022: Vault_smallcolumn03
+    100024: Vault_smallfloor00
+    100026: Vault_smallfloor01
+    100028: Vault_smallroof00
+    100030: Vault_smallroof01
+    100032: Vault_smallwall00
+    100034: Vault_smallwall01
+    100036: Vault_smallwall02
+    100038: Vault_smallwall03
+    100040: Vault_smallwall04
+    100042: Vault_smallwall05
+    100044: Vault_smallwall06
+    100046: Vault_smallwall07
+    100048: Vault_smallwindow
+    100050: Vault_smallwindowf
+    100052: Vault_00roof
+    100054: Vault_01roof
+    100056: Vault_02roof
+    100058: Vault_03roof
+    100060: Vault_04roof
+    100062: Vault_floor00
+    100064: Vault_floor003
+    100066: Vault_floor004
+    100068: Vault_floor01
+    100070: Vault_floor02
+    100072: Vault_nerve00
+    100074: Vault_nerve004
+    100076: Vault_nerve01
+    100078: Vault_nerve02
+    100080: Vault_window00
+    100082: Vault_window01
+    100084: Vault_window02
+    100086: Vault_window03
+    100088: Vault_window04
+    100090: Vault_window05
+    100092: Vault_window06
+    100094: Vault_window07
+    100096: Vault_window08
+    100098: Vault_window09
+    400000: //RootNode
+    400002: Vault_small
+    400004: Vault_small 1
+    400006: Vault_small 2
+    400008: Vault_small 3
+    400010: Vault_smallarch00
+    400012: Vault_smallarch01
+    400014: Vault_smallarch02
+    400016: Vault_smallcolumn00
+    400018: Vault_smallcolumn01
+    400020: Vault_smallcolumn02
+    400022: Vault_smallcolumn03
+    400024: Vault_smallfloor00
+    400026: Vault_smallfloor01
+    400028: Vault_smallroof00
+    400030: Vault_smallroof01
+    400032: Vault_smallwall00
+    400034: Vault_smallwall01
+    400036: Vault_smallwall02
+    400038: Vault_smallwall03
+    400040: Vault_smallwall04
+    400042: Vault_smallwall05
+    400044: Vault_smallwall06
+    400046: Vault_smallwall07
+    400048: Vault_smallwindow
+    400050: Vault_smallwindowf
+    400052: Vault_00roof
+    400054: Vault_01roof
+    400056: Vault_02roof
+    400058: Vault_03roof
+    400060: Vault_04roof
+    400062: Vault_floor00
+    400064: Vault_floor003
+    400066: Vault_floor004
+    400068: Vault_floor01
+    400070: Vault_floor02
+    400072: Vault_nerve00
+    400074: Vault_nerve004
+    400076: Vault_nerve01
+    400078: Vault_nerve02
+    400080: Vault_window00
+    400082: Vault_window01
+    400084: Vault_window02
+    400086: Vault_window03
+    400088: Vault_window04
+    400090: Vault_window05
+    400092: Vault_window06
+    400094: Vault_window07
+    400096: Vault_window08
+    400098: Vault_window09
+    2300000: Vault_small
+    2300002: Vault_small 1
+    2300004: Vault_small 2
+    2300006: Vault_small 3
+    2300008: Vault_smallarch00
+    2300010: Vault_smallarch01
+    2300012: Vault_smallarch02
+    2300014: Vault_smallcolumn00
+    2300016: Vault_smallcolumn01
+    2300018: Vault_smallcolumn02
+    2300020: Vault_smallcolumn03
+    2300022: Vault_smallfloor00
+    2300024: Vault_smallfloor01
+    2300026: Vault_smallroof00
+    2300028: Vault_smallroof01
+    2300030: Vault_smallwall00
+    2300032: Vault_smallwall01
+    2300034: Vault_smallwall02
+    2300036: Vault_smallwall03
+    2300038: Vault_smallwall04
+    2300040: Vault_smallwall05
+    2300042: Vault_smallwall06
+    2300044: Vault_smallwall07
+    2300046: Vault_smallwindow
+    2300048: Vault_smallwindowf
+    2300050: Vault_00roof
+    2300052: Vault_01roof
+    2300054: Vault_02roof
+    2300056: Vault_03roof
+    2300058: Vault_04roof
+    2300060: Vault_floor00
+    2300062: Vault_floor003
+    2300064: Vault_floor004
+    2300066: Vault_floor01
+    2300068: Vault_floor02
+    2300070: Vault_nerve00
+    2300072: Vault_nerve004
+    2300074: Vault_nerve01
+    2300076: Vault_nerve02
+    2300078: Vault_window00
+    2300080: Vault_window01
+    2300082: Vault_window02
+    2300084: Vault_window03
+    2300086: Vault_window04
+    2300088: Vault_window05
+    2300090: Vault_window06
+    2300092: Vault_window07
+    2300094: Vault_window08
+    2300096: Vault_window09
+    3300000: Vault_small
+    3300002: Vault_small 1
+    3300004: Vault_small 2
+    3300006: Vault_small 3
+    3300008: Vault_smallarch00
+    3300010: Vault_smallarch01
+    3300012: Vault_smallarch02
+    3300014: Vault_smallcolumn00
+    3300016: Vault_smallcolumn01
+    3300018: Vault_smallcolumn02
+    3300020: Vault_smallcolumn03
+    3300022: Vault_smallfloor00
+    3300024: Vault_smallfloor01
+    3300026: Vault_smallroof00
+    3300028: Vault_smallroof01
+    3300030: Vault_smallwall00
+    3300032: Vault_smallwall01
+    3300034: Vault_smallwall02
+    3300036: Vault_smallwall03
+    3300038: Vault_smallwall04
+    3300040: Vault_smallwall05
+    3300042: Vault_smallwall06
+    3300044: Vault_smallwall07
+    3300046: Vault_smallwindow
+    3300048: Vault_smallwindowf
+    3300050: Vault_00roof
+    3300052: Vault_01roof
+    3300054: Vault_02roof
+    3300056: Vault_03roof
+    3300058: Vault_04roof
+    3300060: Vault_floor00
+    3300062: Vault_floor003
+    3300064: Vault_floor004
+    3300066: Vault_floor01
+    3300068: Vault_floor02
+    3300070: Vault_nerve00
+    3300072: Vault_nerve004
+    3300074: Vault_nerve01
+    3300076: Vault_nerve02
+    3300078: Vault_window00
+    3300080: Vault_window01
+    3300082: Vault_window02
+    3300084: Vault_window03
+    3300086: Vault_window04
+    3300088: Vault_window05
+    3300090: Vault_window06
+    3300092: Vault_window07
+    3300094: Vault_window08
+    3300096: Vault_window09
+    4300000: Vault_smallwall01
+    4300002: Vault_smallarch01
+    4300004: Vault_smallwindowf
+    4300006: Vault_small
+    4300008: Vault_smallcolumn02
+    4300010: Vault_smallcolumn01
+    4300012: Vault_smallwindow
+    4300014: Vault_smallwall03
+    4300016: Vault_smallwall02
+    4300018: Vault_smallwall05
+    4300020: Vault_smallfloor00
+    4300022: Vault_smallwall07
+    4300024: Vault_smallwall04
+    4300026: Vault_smallwall06
+    4300028: Vault_smallwall00
+    4300030: Vault_smallarch02
+    4300032: Vault_small
+    4300034: Vault_smallroof01
+    4300036: Vault_smallroof00
+    4300038: Vault_smallarch00
+    4300040: Vault_smallfloor01
+    4300042: Vault_small
+    4300044: Vault_smallcolumn03
+    4300046: Vault_small
+    4300048: Vault_smallcolumn00
+    4300050: Vault_window03
+    4300052: Vault_window05
+    4300054: Vault_window07
+    4300056: Vault_window01
+    4300058: Vault_nerve00
+    4300060: Vault_04roof
+    4300062: Vault_floor02
+    4300064: Vault_floor00
+    4300066: Vault_window04
+    4300068: Vault_window09
+    4300070: Vault_window06
+    4300072: Vault_02roof
+    4300074: Vault_01roof
+    4300076: Vault_03roof
+    4300078: Vault_00roof
+    4300080: Vault_nerve01
+    4300082: Vault_window08
+    4300084: Vault_window00
+    4300086: Vault_floor01
+    4300088: Vault_nerve02
+    4300090: Vault_window02
+    4300092: Vault_nerve004
+    4300094: Vault_floor003
+    4300096: Vault_floor004
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

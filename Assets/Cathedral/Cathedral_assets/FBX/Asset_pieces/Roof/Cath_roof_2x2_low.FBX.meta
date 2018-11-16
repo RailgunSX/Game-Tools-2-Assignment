@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 1cc668bc2ce967447a31b11a1fa9a344
+timeCreated: 1485777493
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Roof_wall_half1
+    100004: RoofNerv3
+    100006: RoofV_bignerv1
+    100008: Roofwall4
+    100010: Roofwall5
+    100012: Roofwall_3
+    100014: Roofwall_half2
+    100016: wall_half3
+    100018: wall_half3d
+    100020: wall_half3d_m
+    100022: wall_half4
+    100024: RoofNerv011
+    100026: Roofwall008
+    100028: Roofwall009
+    100030: Roofwall010
+    100032: Roofwall011
+    400000: //RootNode
+    400002: Roof_wall_half1
+    400004: RoofNerv3
+    400006: RoofV_bignerv1
+    400008: Roofwall4
+    400010: Roofwall5
+    400012: Roofwall_3
+    400014: Roofwall_half2
+    400016: wall_half3
+    400018: wall_half3d
+    400020: wall_half3d_m
+    400022: wall_half4
+    400024: RoofNerv011
+    400026: Roofwall008
+    400028: Roofwall009
+    400030: Roofwall010
+    400032: Roofwall011
+    2300000: Roof_wall_half1
+    2300002: RoofNerv3
+    2300004: RoofV_bignerv1
+    2300006: Roofwall4
+    2300008: Roofwall5
+    2300010: Roofwall_3
+    2300012: Roofwall_half2
+    2300014: wall_half3
+    2300016: wall_half3d
+    2300018: wall_half3d_m
+    2300020: wall_half4
+    2300022: RoofNerv011
+    2300024: Roofwall008
+    2300026: Roofwall009
+    2300028: Roofwall010
+    2300030: Roofwall011
+    3300000: Roof_wall_half1
+    3300002: RoofNerv3
+    3300004: RoofV_bignerv1
+    3300006: Roofwall4
+    3300008: Roofwall5
+    3300010: Roofwall_3
+    3300012: Roofwall_half2
+    3300014: wall_half3
+    3300016: wall_half3d
+    3300018: wall_half3d_m
+    3300020: wall_half4
+    3300022: RoofNerv011
+    3300024: Roofwall008
+    3300026: Roofwall009
+    3300028: Roofwall010
+    3300030: Roofwall011
+    4300000: wall_half4
+    4300002: Roofwall_half2
+    4300004: Roof_wall_half1
+    4300006: Roofwall4
+    4300008: Roofwall_3
+    4300010: RoofNerv3
+    4300012: RoofV_bignerv1
+    4300014: Roofwall5
+    4300016: wall_half3
+    4300018: wall_half3d_m
+    4300020: wall_half3d
+    4300022: RoofNerv011
+    4300024: Roofwall008
+    4300026: Roofwall009
+    4300028: Roofwall010
+    4300030: Roofwall011
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
